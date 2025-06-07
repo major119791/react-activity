@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <main>
       <div className="overlay">
-        <WelcomeCard />
+        <WelcomeCard defaultName="Guest" />
         <Counter />
         <StudentInfo />
       </div>
