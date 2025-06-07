@@ -2,6 +2,22 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+# JavaScript Fundamentals & React Components
+
+A Next.js project demonstrating JavaScript basics for Part A and React component creation for Part B.
+
+## 📋 Project Requirements
+
+### Part A: JavaScript Fundamentals
+- Variables, functions, arrays, objects
+- DOM manipulation
+- Event handling
+
+### Part B: React Components
+1. **WelcomeCard**: Displays personalized greeting with props
+2. **Counter**: Interactive counter with state management
+3. **StudentInfo**: Form with dynamic field handling
+
 First, run the development server:
 
 ```bash
